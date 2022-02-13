@@ -8,24 +8,19 @@ To write a python program to implement K-Means Clustering Algorithm.
 ## Algorithm:
 
 ### Step1
-<br>
-
+import the necessary packages.
 ### Step2
-<br>
-
+Read the csv file.
 ### Step3
-<br>
-
+Scatter plot the applicant income and loan amount.
 ### Step4
-<br>
+Pretict the cluster group of Applicant Income and Loanamount.
 
-### Step5
-<br>
 
 ## Program:
 ~~~ python
-#DEVELOPED BY: HARSHAVARDHINI M
-#REG NO: 212221240015
+#DEVELOPED BY: M MANOJ
+#REG NO: 21500566
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
